@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Curso Rest API",
+      "price": 279,
+      "id": 1
+    },
+    {
+      "name": "Playstation 5",
+      "price": 2790,
+      "id": 2
+    }
+  ]
+}
